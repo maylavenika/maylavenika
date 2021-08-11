@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maylavenika
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning python 3.
+- 💞️ I’m looking to participate in coding bootcamp to seek more interests.
+- 📫 How to reach me: send email to imthemostuwu@gmail.com
